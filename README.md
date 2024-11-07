@@ -1,7 +1,7 @@
-## CircleAnimateProgress
-| Oyun Başlangıcı | | Oyun Bitti | 
+## SpaceShootingRangeGame
+| Oyun Başlıyor | Oyun Bitti && Tekrardan Baslamak |
 |---------|---------|
-| <img src="https://github.com/user-attachments/assets/ebf46e1d-e900-4d44-b28c-ec48274486ac" alt="Video 1" width="300"/> | <img src="https://github.com/user-attachments/assets/35caa6a5-8ee9-4cc4-9257-555a24868bad" alt="Video 1" width="300"/> |
+| ![Video 1](https://github.com/user-attachments/assets/ebf46e1d-e900-4d44-b28c-ec48274486ac) | ![Video 2](https://github.com/user-attachments/assets/35caa6a5-8ee9-4cc4-9257-555a24868bad) |
 
 
  <details>
